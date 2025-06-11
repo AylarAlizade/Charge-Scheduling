@@ -1,0 +1,2 @@
+LP runtime (seconds): 0.1864
+BF runtime (seconds): 16.9824
